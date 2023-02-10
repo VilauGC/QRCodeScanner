@@ -150,11 +150,4 @@ and create the methods for his attributes
 Done!!!
 
 
-De facut pentru vgc-hospital:
-
-instalez dependintele
-o sa folosesc bootstrap nu material
-creez o componenta noua si pun buton pe pagina principala pentru redirect catre ea
-
-
 
